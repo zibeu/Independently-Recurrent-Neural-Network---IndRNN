@@ -18,6 +18,10 @@ Steps:
     Run "Indrnn_action_train.py"
     
     
- For more information on the model: 
+For more information on the model: 
  
 https://github.com/Sunnydreamrain/IndRNN_pytorch/blob/master/Independently%20Recurrent%20Neural%20Network%20(IndRNN)%20Building%20A%20Longer%20and%20Deeper%20RNN.pdf
+
+
+Reference:
+https://github.com/Sunnydreamrain/IndRNN_pytorch
